@@ -22,7 +22,7 @@ A research investigation into the database of the Brazilian aviation network.
     2. Clustering coefficient for each region [x]
 
 ## Notebook 
-- [:file_folder: Jupyter notebook with brazilian air network investigation] (./Project_U2P1.ipynb)
+- [!:file_folder: Jupyter notebook with brazilian air network investigation](./Project_U2P1.ipynb)
 
 ## Main Findings
 - The Brazilian network exhibits a significant level of connectivity.
