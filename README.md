@@ -5,7 +5,7 @@ A research investigation into the database of the Brazilian aviation network.
 ## Requirements:
 * Requirement 1
     - [x] Assortativty by region
-    - [ ] Static plot
+    - [x] Static plot
     - [x] Interactive plot
 * Requirement 2
     - [x] Bivariate analysis
