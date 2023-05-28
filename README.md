@@ -4,22 +4,22 @@ A research investigation into the database of the Brazilian aviation network.
 
 ## Requirements:
 * Requirement 1
-    1. Assortativty by region [x]
-    2. Static plot [  ]
-    3. Interactive plot [x]
+    - [x] Assortativty by region
+    - [ ] Static plot
+    - [x] Interactive plot
 * Requirement 2
-    1. Bivariate analysis [x]
-    2. Plot graph [x]
+    - [x] Bivariate analysis
+    - [x] Plot graph
 * Requirement 3
-    1. Connected components [x]
-    2. Characterization of each component [x]
+    - [x] Connected components
+    - [x] Characterization of each component
 * Requirement 4
-    1. Imaginary trip []
-    2. Number of routes []
-    3. Cost estimate []
+    - [ ] Imaginary trip
+    - [ ] Number of routes
+    - [ ] Cost estimate
 * Requirement 5
-    1. Clustering coefficient Network [x]
-    2. Clustering coefficient for each region [x]
+    - [x] Clustering coefficient Network
+    - [x] Clustering coefficient for each region
 
 ## Notebook 
 - [!:file_folder: Jupyter notebook with brazilian air network investigation](./Project_U2P1.ipynb)
