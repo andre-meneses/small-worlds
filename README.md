@@ -1,4 +1,4 @@
-<center><img width="800" src="figures/cover.png"></center>
+<center><img src="figures/cover.png" style="width: 55vw; min-width: 330px; "></center>
 
 # Small Worlds
 
