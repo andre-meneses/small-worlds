@@ -1,3 +1,5 @@
+<center><img width="800" src="figures/cover.png"></center>
+
 # Small Worlds
 
 A research investigation into the database of the Brazilian aviation network.
