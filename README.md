@@ -3,6 +3,9 @@
 
 A research investigation into the database of the Brazilian aviation network.
 
+## Loom Video
+- [:camera: Loom Video with the study's main findings]()
+
 ## Requirements:
 * Requirement 1
     - [x] Assortativty by region
@@ -23,7 +26,7 @@ A research investigation into the database of the Brazilian aviation network.
     - [x] Clustering coefficient for each region
 
 ## Notebook 
-- [!:file_folder: Jupyter notebook with brazilian air network investigation](./Project_U2P1.ipynb)
+- [:file_folder: Jupyter notebook with brazilian air network investigation](./Project_U2P1.ipynb)
 
 ## Main Findings
 - The Brazilian network exhibits a significant level of connectivity.
