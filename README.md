@@ -37,9 +37,9 @@ A research investigation into the database of the Brazilian aviation network.
     4. City 4 (Central-West) to City 5 (Southeast)
    
     Using the concept of the shortest path, describe the journey taken and the number of routes used. Provide a cost estimate for this trip, including a simulation with dates and the airline company, ensuring that the period from the first trip to the last does not exceed 30 days.
-    - [ ] Imaginary trip
-    - [ ] Number of routes
-    - [ ] Cost estimate
+    - [x] Imaginary trip
+    - [x] Number of routes
+    - [x] Cost estimate
     
 - **Requirement 5**: Conduct a study on the Clustering Coefficient considering the National Air Network, as well as the individual air sub-networks of each Region (North, Northeast, Central-West, South, and Southeast).
     - [x] Clustering coefficient Network
