@@ -4,7 +4,7 @@
 A research investigation into the database of the Brazilian aviation network.
 
 ## Loom Video
-- [:camera: Loom Video with the study's main findings]()
+- [:camera: Loom Video with the study's main findings](https://www.loom.com/share/cf782d6840124fbeabf47a14def41ef6)
 
 ## Notebook 
 - [:file_folder: Jupyter notebook with brazilian air network investigation](./Project_U2P1.ipynb)
